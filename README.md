@@ -7,11 +7,11 @@ We have been tasked to perform an initial data and exploratory analysis of data 
 # Data
 We were provided with datasets that contained all the customer information:
 
-Orders
-Orders_Products_Prior
-Products
-Customers
-Departments
+- Orders
+- Orders_Products_Prior
+- Products
+- Customers
+- Departments
 
 # Folders
 Project Management: Contains the Project Brief
