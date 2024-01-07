@@ -1,8 +1,8 @@
 # Instacart_Python
-Instacart is an online grocery store that operates through an app. The goal of this analysis is to extract insights into purchasing behavior, crafting detailed customer profiles that inform strategic decision-makers in sales and marketing teams
+Instacart is an online grocery store that operates through an app. Instacart is interested in uncovering insights into purchasing behavior and crafting detailed customer profiles that inform strategic decision-makers in sales and marketing teams. 
 
 # Objective
-We have been tasked to perform an initial data and exploratory analysis of data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The idea is to learn about a variety of customers at Instacart and their purchasing behaviors to develop a targeted marketing strategy.
+The goal of this task is to perform an initial data and exploratory analysis of data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. By learning more about the customer profiles at Instacart and their purchasing behaviors, the company can develop a targeted marketing strategy.
 
 # Data
 We were provided with datasets that contained all the customer information:
