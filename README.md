@@ -15,7 +15,7 @@ We were provided with datasets that contained all the customer information:
 
 # Folders
 - Project Management: Contains the Project Brief
-- Data: Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included to to file size constraints
 - Scripts: Contains all the Python coding involved for the entire analysis process
 - Analysis: Contains the Visualizations used for developing insights and presenting on the final report
 - Sent to client: Contains the Final Report in Excel
+  Original Data Folder has not been included due to file size constraints
