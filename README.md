@@ -18,4 +18,4 @@ We were provided with datasets that contained all the customer information:
 - Scripts: Contains all the Python coding involved for the entire analysis process
 - Analysis: Contains the Visualizations used for developing insights and presenting on the final report
 - Sent to client: Contains the Final Report in Excel
-- * Original Data Folder has not been included due to file size constraints
+* Original Data Folder has not been included due to file size constraints
