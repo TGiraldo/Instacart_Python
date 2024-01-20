@@ -14,8 +14,8 @@ We were provided with datasets that contained all the customer information:
 - Departments
 
 # Folders
-- Project Management: Contains the Project Brief
-- Scripts: Contains all the Python coding involved for the entire analysis process
-- Analysis: Contains the Visualizations used for developing insights and presenting on the final report
-- Sent to client: Contains the Final Report in Excel
-* Original Data Folder has not been included due to file size constraints
+- 01 Project Management: Contains the Project Brief
+- 02 Data: Some files could not be included due to file size constraints
+- 03 Scripts: Contains all the Python coding involved for the entire analysis process
+- 04 Analysis: Contains the Visualizations used for developing insights and presenting on the final report
+- 05 Sent to client: Contains the Final Report in Excel
